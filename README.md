@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayoub 
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Full-stack development
+- 👀 I’m interested in AI, Machine Learning and Data Science
+- 🌱 I’m currently learning Full-stack and AI development
 - 💞️ I’m looking to collaborate in the Tech Industry
 - 📫 How to reach me: khialayoub@gmail.com 👈
   

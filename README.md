@@ -5,16 +5,13 @@
     Connect with me on LinkedIn @ayoub-khial
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=4A90E2,1E3C72&height=120&section=header" alt="header"/> 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header" alt="header" />
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4000&pause=500&color=4A90E2&width=500&lines=Hey+there,+I'm+Ayoub+Khial;Student,+Developer,+Builder" alt="Typing SVG" />
 </a>
 
-<!-- Replace this with your terminal GIF once ready -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/khialayoub/khialayoub/main/assets/terminal-placeholder.gif" alt="Terminal GIF" width="400" />
-</div>
+<img src="terminal.gif" alt="Terminal Demo" style="width:100%; float:left; margin-right:20px; border-radius:8px;" />
+
 
 ### About Me & Mission  
 I’m 20 and studying Computer Engineering, with three years of software engineering experience already under my belt. I don’t have many distractions. I’m kinda athletic, can’t sing or dance, and don’t drink. But I love building. It’s the only thing that makes me lose track of time.
@@ -26,24 +23,24 @@ Right now, my focus is on helping bring ideas from 0 to 1 or even better, from 1
 ### 🧰 Languages & Tools  
 
 <p>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="30" style="margin-right:8px"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" height="30" style="margin-right:8px"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="30" style="margin-right:8px"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" height="30" style="margin-right:8px"/></a>
-  <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="30" style="margin-right:8px"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="30" style="margin-right:8px"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="30" style="margin-right:8px"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="30" style="margin-right:8px"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="30" style="margin-right:8px"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" height="30" style="margin-right:8px"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="40" style="margin-right:8px"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" height="40" style="margin-right:8px"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" style="margin-right:8px"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" height="40" style="margin-right:8px"/></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="40" style="margin-right:8px"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" style="margin-right:8px"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="40" style="margin-right:8px"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="40" style="margin-right:8px"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" style="margin-right:8px"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" height="40" style="margin-right:8px"/></a>
 </p>
 
 ### 📚 Currently Studying  
 
 <p>
-  <a href="https://rubyonrails.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby on Rails" height="30" style="margin-right:8px"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="30" style="margin-right:8px"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="30" style="margin-right:8px"/></a>
+  <a href="https://rubyonrails.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ruby" alt="Ruby on Rails" height="40" style="margin-right:8px"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="40" style="margin-right:8px"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" style="margin-right:8px"/></a>
 </p>
 
 ---
@@ -51,7 +48,7 @@ Right now, my focus is on helping bring ideas from 0 to 1 or even better, from 1
 ### 🌟 Featured Project  
 
 **AI Chatbot for Emotional Support**  
-- Built from scratch using PyTorch with a custom dataset  
+- Built and trained from scratch ( no pre-trained models) using PyTorch with a custom dataset  
 - Encoder-decoder transformer architecture leveraging LSTM and reinforcement learning  
 - Inspired by BMO from Adventure Time, designed for personalized emotional support  
 
@@ -66,7 +63,7 @@ Right now, my focus is on helping bring ideas from 0 to 1 or even better, from 1
   <a href="mailto:khialayoub@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.chess.com/member/ayoubkhial" target="_blank">
+  <a href="https://www.chess.com/member/nugget-the-great" target="_blank">
     <img src="https://img.shields.io/badge/-Chess.com-000000?style=for-the-badge&logo=chess&logoColor=white" alt="Chess.com"/>
   </a>
 </div>

@@ -66,6 +66,9 @@ Right now, my focus is on helping bring ideas from 0 to 1 or even better, from 1
   <a href="https://www.chess.com/member/nugget-the-great" target="_blank">
     <img src="https://img.shields.io/badge/-Chess.com-000000?style=for-the-badge&logo=chess&logoColor=white" alt="Chess.com"/>
   </a>
+<a href="https://ak-issac.github.io/react-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 

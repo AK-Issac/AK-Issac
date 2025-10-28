@@ -118,4 +118,4 @@ Right now, my focus is on helping bring ideas from 0 to 1 or even better, from 1
 
 
 Thanks for stopping by! Feel free to reach out or connect.  
-Building is my passion — let’s turn ideas into reality. 🚀
+Building is my passion - let’s turn ideas into reality. 
